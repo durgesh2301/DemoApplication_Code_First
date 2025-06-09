@@ -10,3 +10,9 @@ Key Features:
 •	Clean, modular, and maintainable architecture
 
 This project is ideal for learning or demonstrating modern .NET 8 development techniques, especially for those interested in building scalable and testable applications with EF Core.
+
+Getting Started
+1.	Clone the repository.
+2.	Update the appsettings.json with your SQL Server connection string.
+3.	Build and run the solution.
+4.	Use the Console UI or API endpoints to interact with the system.
